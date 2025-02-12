@@ -1,0 +1,159 @@
+Movie_id,Negative_sentiment_score,Neutral_sentiment_score,Positive_sentiment_score,Compound_sentiment_score,Rank,Name,Opening_earnings,Release_month,Distributor
+tt0327597,0.06436,0.7722,0.16332,0.697536,45,Coraline15th Anniversary,"$9,832,281 ",Aug,Fathom Events
+tt0327785,0.07536,0.7394,0.18516,0.715644,114,The Killer's Game,"$2,697,850 ",Sep,Lionsgate
+tt0347149,0.05864,0.74716,0.19416,0.908496,163,Howl's Moving Castle20th Anniversary – Studio Ghibli Fest 2024,"$2,109,935 ",Sep,Fathom Events
+tt0368667,0.0328,0.78416,0.18308,0.881352,164,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,"$2,328,339 ",Dec,Trafalgar Releasing
+tt0377092,0.05972,0.754,0.18632,0.840936,29,Mean Girls,"$28,635,307 ",Jan,Paramount Pictures
+tt10128846,0.08624,0.76692,0.14672,0.684096,101,Megalopolis,"$4,007,797 ",Sep,-
+tt10655524,0.06908,0.71504,0.2158,0.72176,16,It Ends with Us,"$50,016,652 ",Aug,Sony Pictures Releasing
+tt10720352,0.04632,0.72452,0.22908,0.967708,56,Arthur the King,"$7,633,898 ",Mar,Lionsgate
+tt11057302,0.13144,0.73296,0.13548,0.121428,40,Madame Web,"$15,335,860 ",Feb,Columbia Pictures
+tt11068094,0.0666,0.758,0.17524,0.819888,116,White Bird,"$1,557,893 ",Oct,Lionsgate
+tt11152168,0.06048,0.74836,0.1912,0.82286,21,IF,"$33,715,801 ",May,Paramount Pictures
+tt11240348,0.11524,0.76408,0.12076,-0.043796,124,The Exorcism,"$2,457,041 ",Jun,Vertical Entertainment
+tt11315808,0.1208,0.72244,0.15656,0.35782,36,Joker: Folie à Deux,"$37,678,467 ",Oct,Warner Bros.
+tt11389872,0.05816,0.78684,0.15496,0.658152,15,Kingdom of the Planet of the Apes,"$58,400,788 ",May,20th Century Studios
+tt11563598,0.0402,0.80116,0.1586,0.851536,33,A Complete Unknown,"$11,655,553 ",Dec,Searchlight Pictures
+tt11821912,0.0698,0.74588,0.18436,0.603872,113,Devara Part 1,"$5,600,000 ",Sep,-
+tt11976134,0.0356,0.70428,0.2602,0.898712,174,Singham Again,"$2,190,000 ",Nov,-
+tt12037194,0.0952,0.72916,0.17576,0.536528,32,Furiosa: A Mad Max Saga,"$26,326,462 ",May,Warner Bros.
+tt12349832,0.10332,0.75412,0.14272,0.283372,106,Cuckoo,"$3,030,437 ",Aug,Neon
+tt12584954,0.06644,0.73972,0.19388,0.772564,8,Twisters,"$81,251,415 ",Jul,Universal Pictures
+tt1262426,0.04932,0.76672,0.18404,0.802572,3,Wicked,"$112,508,890 ",Nov,Universal Pictures
+tt12735488,0.05192,0.76656,0.1816,0.880396,70,Kalki 2898 AD,"$5,668,275 ",Jun,-
+tt12873300,0.0542,0.72536,0.2204,0.8113,102,Sight,"$2,795,447 ",May,Angel Studios
+tt13097932,0.06672,0.78832,0.14492,0.63798,112,One Life,"$1,713,505 ",Mar,Bleecker Street Media
+tt13186482,0.05692,0.74744,0.19572,0.838364,10,Mufasa: The Lion King,"$35,409,365 ",Dec,Walt Disney Studios Motion Pictures
+tt1340094,0.09236,0.7386,0.16908,0.499956,93,The Crow,"$4,644,666 ",Aug,Lionsgate
+tt13433802,0.10616,0.73168,0.16212,0.277844,19,A Quiet Place: Day One,"$52,202,495 ",Jun,Paramount Pictures
+tt13622970,0.0732,0.731,0.19588,0.699284,4,Moana 2,"$139,787,385 ",Nov,Walt Disney Studios Motion Pictures
+tt13655120,0.0932,0.78584,0.12104,0.326096,105,I.S.S.,"$3,064,583 ",Jan,Bleecker Street Media
+tt13923084,0.10372,0.7212,0.17508,0.528568,151,Boy Kills World,"$1,682,525 ",Apr,Roadside Attractions
+tt14088510,0.12304,0.71136,0.16552,0.289292,69,Tarot,"$6,503,012 ",May,Screen Gems
+tt14260836,0.06856,0.74576,0.1858,0.679904,184,Better Man,"$18,259 ",Dec,Paramount Pictures
+tt14351082,0.05164,0.71488,0.2334,0.930792,66,Cabrini,"$7,168,520 ",Mar,Angel Studios
+tt14415204,0.11036,0.745,0.14452,0.37368,86,Never Let Go,"$4,449,065 ",Sep,Lionsgate
+tt14539740,0.0646,0.76944,0.16576,0.742104,11,Godzilla x Kong: The New Empire,"$80,006,561 ",Mar,Warner Bros.
+tt14824600,0.08436,0.75568,0.15996,0.556908,94,The Lord of the Rings: The War of the Rohirrim,"$4,552,109 ",Dec,Warner Bros.
+tt14858658,0.08488,0.75528,0.15988,0.47366,59,Blink Twice,"$7,301,894 ",Aug,Amazon MGM Studios
+tt14948432,0.08264,0.73764,0.17972,0.454264,23,Red One,"$32,106,112 ",Nov,Amazon MGM Studios
+tt14966898,0.0954,0.73216,0.1726,0.5499,88,Late Night with the Devil,"$2,834,867 ",Mar,IFC Films
+tt15009428,0.08216,0.732,0.18584,0.826964,39,Argylle,"$17,473,540 ",Feb,Universal Pictures
+tt15041836,0.09552,0.77048,0.134,0.169624,187,Werewolves,"$1,052,998 ",Dec,Briarcliff Entertainment
+tt15078804,0.08244,0.74452,0.17284,0.625188,158,Problemista,"$131,521 ",Mar,A24
+tt15239678,0.03976,0.77624,0.18388,0.949424,,,,,
+tt15314262,0.0982,0.7108,0.19104,0.505464,34,The Beekeeper,"$16,576,007 ",Jan,Metro-Goldwyn-Mayer (MGM)
+tt15574270,0.0856,0.7686,0.14588,0.51092,120,I Saw the TV Glow,"$119,015 ",May,A24
+tt15782690,0.08132,0.75656,0.16228,0.344584,170,In the Land of Saints and Sinners,"$1,034,132 ",Mar,The Samuel Goldwyn Company
+tt15845160,0.0786,0.79408,0.12736,0.380728,176,The Ark and the Darkness,"$32,021 ",Mar,Fathom Events
+tt1609486,0.05836,0.7262,0.21552,0.805656,72,Harold and the Purple Crayon,"$6,003,197 ",Aug,Columbia Pictures
+tt16366836,0.0948,0.72744,0.17776,0.656028,18,Venom: The Last Dance,"$51,012,404 ",Oct,Sony Pictures Releasing
+tt16426418,0.0556,0.75368,0.19068,0.75692,38,Challengers,"$15,011,061 ",Apr,Amazon MGM Studios
+tt16539454,0.071,0.77292,0.15612,0.514156,81,Pushpa: The Rule - Part 2,"$9,300,000 ",Dec,AA Films
+tt1684562,0.07568,0.73708,0.18732,0.829912,26,The Fall Guy,"$27,747,035 ",May,Universal Pictures
+tt1723808,0.05188,0.78464,0.16332,0.737544,48,Reagan,"$7,650,720 ",Aug,-
+tt17279496,0.13444,0.7544,0.11112,-0.136344,31,Civil War,"$25,537,368 ",Apr,A24
+tt17505010,0.0652,0.76668,0.16808,0.590412,50,Horizon: An American Saga - Chapter 1,"$11,052,561 ",Jun,Warner Bros.
+tt17526714,0.10184,0.7484,0.14976,0.426356,73,The Substance,"$3,205,212 ",Sep,MUBI
+tt18259086,0.03816,0.72828,0.23352,0.972176,9,Sonic the Hedgehog 3,"$60,102,146 ",Dec,Paramount Pictures
+tt18272208,0.07024,0.78656,0.14316,0.627588,83,Here,"$4,875,195 ",Nov,Sony Pictures Releasing
+tt18412256,0.07412,0.76936,0.15648,0.704404,22,Alien: Romulus,"$42,003,361 ",Aug,Walt Disney Studios Motion Pictures
+tt18559464,0.04976,0.77204,0.17836,0.923704,115,My Old Ass,"$167,853 ",Sep,Amazon MGM Studios
+tt1896747,0.06952,0.7402,0.19028,0.720468,63,Fly Me to the Moon,"$9,402,176 ",Jul,Columbia Pictures
+tt19356262,0.07752,0.75024,0.1722,0.704384,119,Drive-Away Dolls,"$2,404,330 ",Feb,Focus Features
+tt19637052,0.07816,0.7354,0.1866,0.797932,96,Love Lies Bleeding,"$150,765 ",Mar,A24
+tt19760052,0.03884,0.78272,0.17848,0.862096,147,The Taste of Things,"$130,050 ",Feb,IFC Films
+tt19864802,0.1166,0.72988,0.1536,0.25706,123,Land of Bad,"$1,840,510 ",Feb,The Avenue Entertainment
+tt20215234,0.06428,0.77324,0.1622,0.64742,47,Conclave,"$6,601,995 ",Oct,Focus Features
+tt20234774,0.08468,0.7246,0.19072,0.485112,121,Wicked Little Letters,"$76,654 ",Mar,Sony Pictures Releasing
+tt20315818,0.07292,0.73012,0.197,0.693424,149,Ezra,"$1,242,678 ",May,Bleecker Street Media
+tt2049403,0.06344,0.74036,0.19632,0.791548,6,Beetlejuice Beetlejuice,"$111,003,345 ",Sep,Warner Bros.
+tt21188080,0.07452,0.72932,0.19612,0.70242,89,Lisa Frankenstein,"$3,695,785 ",Feb,Focus Features
+tt21209876,0.06076,0.76548,0.17384,0.75588,135,Solo Leveling: ReAwakening,"$2,452,895 ",Dec,Sony Pictures Releasing
+tt21235248,0.06896,0.72836,0.20268,0.8146,20,Ghostbusters: Frozen Empire,"$45,004,673 ",Mar,Sony Pictures Releasing
+tt21261712,0.08488,0.74988,0.1654,0.68648,107,Back to Black,"$2,835,720 ",May,Focus Features
+tt21276958,0.07448,0.73556,0.19008,0.560904,131,Babes,"$163,130 ",May,Neon
+tt21454134,0.0386,0.76188,0.19944,0.91332,60,The Bikeriders,"$9,698,275 ",Jun,Focus Features
+tt21692408,0.113,0.70592,0.18092,0.461224,12,Kung Fu Panda 4,"$57,989,905 ",Mar,Universal Pictures
+tt21823606,0.07768,0.7464,0.17588,0.645864,97,A Real Pain,"$228,856 ",Nov,Searchlight Pictures
+tt21905744,0.11788,0.7344,0.14764,0.267016,139,The Front Room,"$1,585,440 ",Sep,A24
+tt22022452,0.07208,0.74224,0.18584,0.686876,1,Inside Out 2,"$154,201,673 ",Jun,Walt Disney Studios Motion Pictures
+tt22048412,0.10724,0.71844,0.17428,0.511932,78,MaXXXine,"$6,705,038 ",Jul,A24
+tt22050754,0.12604,0.73688,0.13704,-0.173704,44,The Strangers: Chapter 1,"$11,825,058 ",May,Lionsgate
+tt22334258,0.04484,0.71096,0.2442,0.886788,111,Someone Like You,"$2,979,692 ",Apr,Fathom Events
+tt22375054,0.06548,0.74484,0.18944,0.870184,140,Strange Darling,"$1,142,928 ",Aug,-
+tt22408160,0.09756,0.75092,0.1514,0.409848,118,Kinds of Kindness,"$377,289 ",Jun,Searchlight Pictures
+tt22866358,0.05536,0.75092,0.19368,0.756372,108,The Book of Clarence,"$2,557,027 ",Jan,Sony Pictures Releasing
+tt23055660,0.1054,0.784,0.1106,0.042496,178,Nickel Boys,"$54,794 ",Dec,Amazon MGM Studios
+tt23137390,0.11088,0.73728,0.15168,0.413492,74,Immaculate,"$5,338,921 ",Mar,Neon
+tt23468450,0.12752,0.73036,0.1422,0.020304,28,Longlegs,"$22,400,119 ",Jul,Neon
+tt2347285,0.03188,0.73264,0.23552,0.97612,42,The Best Christmas Pageant Ever,"$10,773,559 ",Nov,Lionsgate
+tt23558280,0.06984,0.77504,0.1552,0.568908,166,Elevation,"$1,216,578 ",Nov,Vertical Entertainment
+tt23638614,0.04956,0.70556,0.24488,0.938612,64,Unsung Hero,"$7,731,539 ",Apr,Lionsgate
+tt23778968,0.06044,0.73292,0.20664,0.828656,95,Thelma,"$2,303,222 ",Jun,Magnolia Pictures
+tt24176060,0.06968,0.78804,0.14216,0.647796,133,Queer,"$200,951 ",Nov,A24
+tt2528814,0.062,0.7486,0.18952,0.804688,136,God's Not Dead: In God We Trust,"$1,503,593 ",Sep,Fathom Events
+tt26237514,0.07708,0.74408,0.17884,0.458916,84,Bonhoeffer,"$5,047,975 ",Nov,Angel Studios
+tt26625693,0.07184,0.7794,0.14864,0.592416,179,The Order,"$877,855 ",Dec,Vertical Entertainment
+tt26658104,0.11204,0.74456,0.14332,0.372728,51,Imaginary,"$9,912,713 ",Mar,Lionsgate
+tt26684398,0.05768,0.73512,0.20728,0.947756,98,Spy x Family Code: White,"$4,824,993 ",Apr,Crunchyroll
+tt26731216,0.05576,0.73224,0.21204,0.865304,49,The Forge,"$6,659,508 ",Aug,Affirm Films
+tt26736843,0.0934,0.75232,0.15432,0.464456,68,The Watchers,"$7,003,537 ",Jun,Warner Bros.
+tt26753003,0.10512,0.731,0.16388,0.311732,41,Trap,"$15,454,146 ",Aug,Warner Bros.
+tt26928684,0.09544,0.72896,0.17548,0.4733,161,Summer Camp,"$1,086,602 ",May,Roadside Attractions
+tt26932223,0.09372,0.72248,0.18376,0.50256,171,Bhool Bhulaiyaa 3,"$2,230,000 ",Nov,-
+tt27131358,0.06272,0.74096,0.19628,0.829052,58,We Live in Time,"$232,615 ",Oct,A24
+tt27196021,0.08708,0.7894,0.1234,0.155576,196,Small Things Like These,"$596,451 ",Nov,Roadside Attractions
+tt27218960,0.10636,0.72924,0.1644,0.347188,126,Y2K,"$2,113,923 ",Dec,A24
+tt27489557,0.09508,0.70772,0.19728,0.680168,54,Abigail,"$10,297,110 ",Apr,Universal Pictures
+tt27503384,0.0468,0.77596,0.1774,0.852952,132,Perfect Days,"$100,924 ",Feb,Neon
+tt27534307,0.09116,0.72716,0.18156,0.610352,43,Speak No Evil,"$11,397,595 ",Sep,Universal Pictures
+tt27657135,0.05868,0.78252,0.15868,0.807744,91,Saturday Night,"$270,487 ",Sep,Sony Pictures Releasing
+tt27802490,0.10784,0.72096,0.17108,0.319964,167,Exhuma,"$60,512 ",Mar,Well Go USA Entertainment
+tt27911000,0.1306,0.70516,0.16408,0.245824,37,Terrifier 3,"$18,928,113 ",Oct,Cineverse
+tt28015403,0.09572,0.72304,0.18116,0.70006,52,Heretic,"$10,829,810 ",Nov,A24
+tt28082769,0.06192,0.78176,0.15628,0.441176,169,5-Sep,"$80,802 ",Dec,Paramount Pictures
+tt28151876,0.06472,0.76328,0.17192,0.843888,182,Yolo,"$827,632 ",Mar,Sony Pictures Releasing
+tt28479262,0.0602,0.77248,0.1674,0.784184,162,Sing Sing,"$137,119 ",Jul,A24
+tt28607951,0.04988,0.75524,0.19488,0.929588,76,Anora,"$550,503 ",Oct,Neon
+tt29137778,0.09388,0.75928,0.14696,0.360204,61,Homestead,"$6,000,241 ",Dec,Angel Studios
+tt29268110,0.10032,0.726,0.17344,0.524628,30,Smile 2,"$23,021,692 ",Oct,Paramount Pictures
+tt29439114,0.08952,0.75452,0.15596,0.568968,172,The Room Next Door,"$105,013 ",Dec,-
+tt29623480,0.03984,0.76244,0.198,0.942696,17,The Wild Robot,"$35,790,150 ",Sep,Universal Pictures
+tt30007864,0.0894,0.73584,0.17488,0.409168,159,The American Society of Magical Negroes,"$1,304,270 ",Mar,Focus Features
+tt30057084,0.08736,0.77432,0.13816,0.471568,53,Babygirl,"$4,490,145 ",Dec,A24
+tt30110854,0.0882,0.72948,0.18216,0.659148,191,The Firing Squad,"$893,100 ",Aug,Atlas Distribution Company
+tt30319503,0.05432,0.79872,0.14696,0.857564,122,Dìdi,"$207,307 ",Jul,Focus Features
+tt30321146,0.15596,0.7334,0.11064,-0.444384,127,In a Violent Nature,"$2,155,346 ",May,IFC Films
+tt30395619,0.07864,0.81472,0.10668,0.252416,71,Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,"$11,505,414 ",Feb,Sony Pictures Releasing
+tt30476486,0.05096,0.7836,0.16544,0.90502,103,Haikyu!! The Dumpster Battle,"$3,645,301 ",May,Crunchyroll
+tt31064841,0.03336,0.79296,0.17388,0.90518,90,Piece by Piece,"$3,851,355 ",Oct,Focus Features
+tt31193791,0.048,0.7938,0.1582,0.869992,125,The Last Showgirl,"$77,589 ",Dec,Roadside Attractions
+tt31711040,0.05452,0.76748,0.17816,0.798268,181,Look Back,"$690,171 ",Oct,GKIDS
+tt32401874,0.03356,0.70692,0.25944,0.981236,152,"Hello, Love, Again","$2,326,000 ",Nov,-
+tt33034103,0.0614,0.75872,0.17988,0.820152,82,Am I Racist?,"$4,544,063 ",Sep,SDG Releasing
+tt4772188,0.03892,0.76576,0.19532,0.88992,130,Flow,"$50,811 ",Nov,Janus Films
+tt4919268,0.08548,0.71632,0.19836,0.642096,13,Bad Boys: Ride or Die,"$56,527,324 ",Jun,Sony Pictures Releasing
+tt4978420,0.10936,0.7366,0.15416,0.261256,75,Borderlands,"$8,601,572 ",Aug,Lionsgate
+tt4996328,0.06164,0.72932,0.20904,0.873176,67,Ordinary Angels,"$6,163,600 ",Feb,-
+tt5040012,0.09776,0.76592,0.13628,0.44826,25,Nosferatu,"$21,652,560 ",Dec,Focus Features
+tt5112584,0.0818,0.7768,0.14148,0.559632,180,Lee,"$713,255 ",Sep,Roadside Attractions
+tt5177120,0.08388,0.7384,0.1776,0.585564,62,The Ministry of Ungentlemanly Warfare,"$8,913,698 ",Apr,Lionsgate
+tt5672290,0.09488,0.75132,0.15388,0.463256,65,The First Omen,"$8,353,710 ",Apr,Walt Disney Studios Motion Pictures
+tt6263850,0.05152,0.70384,0.24464,0.930328,2,Deadpool & Wolverine,"$211,435,291 ",Jul,Walt Disney Studios Motion Pictures
+tt6881490,0.06024,0.71,0.22964,0.9433,85,Sound of Hope: The Story of Possum Trot,"$3,078,758 ",Jul,Angel Studios
+tt6898324,0.07688,0.79544,0.12772,0.42546,193,City of Dreams,"$1,245,167 ",Aug,Roadside Attractions
+tt7510222,0.09504,0.7128,0.19228,0.412676,5,Despicable Me 4,"$75,009,210 ",Jul,Universal Pictures
+tt7527682,0.10204,0.76184,0.1362,0.1103,186,Out of Darkness,"$979,822 ",Feb,Bleecker Street Media
+tt7738330,0.06152,0.77136,0.16712,0.632876,141,The Long Game,"$1,300,398 ",Apr,-
+tt8097030,0.07896,0.71096,0.21028,0.466612,200,Turning Red,"$578,047 ",Feb,Walt Disney Studios Motion Pictures
+tt8337290,0.10164,0.7844,0.11404,0.050728,146,Absolution,"$1,381,692 ",Nov,The Samuel Goldwyn Company
+tt8368368,0.07144,0.7944,0.13432,0.571528,129,The Apprentice,"$1,613,233 ",Oct,Briarcliff Entertainment
+tt8521778,0.0598,0.7748,0.16528,0.78458,24,Bob Marley: One Love,"$28,659,004 ",Feb,Paramount Pictures
+tt8609660,0.04636,0.73632,0.21728,0.83262,145,My Penguin Friend,"$1,033,435 ",Aug,Roadside Attractions
+tt8790086,0.099,0.72148,0.17948,0.413016,57,Kraven the Hunter,"$11,001,109 ",Dec,Sony Pictures Releasing
+tt8864596,0.04368,0.74456,0.21176,0.855328,35,Transformers One,"$24,613,970 ",Sep,Paramount Pictures
+tt8999762,0.08112,0.76144,0.15744,0.608088,87,The Brutalist,"$266,791 ",Dec,A24
+tt9214772,0.08828,0.76664,0.14488,0.399156,55,Monkey Man,"$10,119,435 ",Apr,Universal Pictures
+tt9218128,0.07984,0.75796,0.1624,0.702544,14,Gladiator II,"$55,034,715 ",Nov,Paramount Pictures
+tt9682428,0.13652,0.73888,0.12452,-0.067704,46,Night Swim,"$11,797,155 ",Jan,Universal Pictures
