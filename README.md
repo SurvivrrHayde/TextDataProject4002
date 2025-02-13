@@ -45,7 +45,7 @@ pip install -r requirements.txt
 Follow these steps to reproduce our results:
 
 1. **Set Up the Environment**  
-   Ensure you have Python 3.x installed and run:
+   Ensure you have Python 3.x installed as well as the requirements.txt file installed from the SCRIPTS folder. Then run:
    ```bash
    pip install -r requirements.txt
    ```
