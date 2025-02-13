@@ -43,9 +43,9 @@ Follow these steps to reproduce our results:
    - Aggregate sentiment scores: Execute aggregation_function.py.
    - Clean the dataset: Run prepare_dataset.py.
 4. **Train Models & Evaluate Performance**
-   Execute the model_training.py script to train models and evaluate their performance.
+   - Execute the model_training.py script to train models and evaluate their performance.
 5. **View Results**
-   Check the OUTPUT folder for performance tracking results and saved models.
+   - Check the OUTPUT folder for performance tracking results and saved models.
 
 
 
