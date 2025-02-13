@@ -38,7 +38,25 @@ pip install -r requirements.txt
 <!-- Section 2: Project Folder Structure -->
 ## Section 2: Software & Platform
 
-
+├── DATA
+│   ├── AnalysisData
+│   ├── InputData
+│   ├── IntermediateData
+│
+├── OUTPUT
+│   ├── AnalysisGraphics
+│   ├── DatasetGraphics
+│   ├── Results
+│   ├── models
+│
+├── SCRIPTS
+│   ├── AnalysisScripts
+│   ├── DataCollectionScripts
+│   ├── ProcessingScripts
+│
+├── LICENSE
+├── README.md
+├── requirements.txt
 
 <!-- Section 3: Instructions for Reproducing Results -->
 ## Section 3: Instructions for Reproducing Results
