@@ -23,8 +23,7 @@ def clean_movie_data(file_path, output_path):
     df.to_csv(output_path, index=False)
     print(f"Cleaned data saved to {output_path}")
 
-# Example usage
 if __name__ == "__main__":
-    input_file = "DATA/aggregated_movie_reviews.csv"  # Change to your actual file path
-    output_file = "DATA/cleaned_movie_data.csv"  # Output file path
+    input_file = "DATA/aggregated_movie_reviews.csv"
+    output_file = "DATA/cleaned_movie_data.csv"
     clean_movie_data(input_file, output_file)

@@ -53,7 +53,7 @@ def load_movie_ids(file_path):
 
 # Scrape reviews for all movies
 def main():
-    movie_ids = load_movie_ids("movie_ids.txt")
+    movie_ids = load_movie_ids("DATA/movie_ids.txt")
     all_reviews = []
 
     for movie_id in movie_ids:
@@ -61,7 +61,7 @@ def main():
         all_reviews.extend(reviews)
 
     # Save all reviews to CSV
-    csv_filename = "imdb_reviews.csv"
+    csv_filename = "DATA/imdb_reviews.csv"
     with open(csv_filename, mode="w", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         writer.writerow(["movie_id", "review_text"])

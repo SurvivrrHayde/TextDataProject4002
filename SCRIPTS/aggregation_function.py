@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Save the merged dataset
-df_combined = pd.read_csv("review_dataset.csv")
+df_combined = pd.read_csv("DATA/review_dataset.csv")
 
 # Aggregate sentiment scores by movie_id (taking the mean)
 df_aggregated = df_combined.groupby("movie_id").agg({
@@ -17,5 +17,5 @@ df_aggregated = df_combined.groupby("movie_id").agg({
 }).reset_index()
 
 # Save the aggregated dataset
-df_aggregated.to_csv("aggregated_movie_reviews.csv", index=False)
+df_aggregated.to_csv("DATA/aggregated_movie_reviews.csv", index=False)
 print("Aggregated dataset saved as 'aggregated_movie_reviews.csv'")
