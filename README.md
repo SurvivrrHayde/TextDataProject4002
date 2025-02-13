@@ -2,6 +2,20 @@
 
 # TextDataProject4002
 
+<!-- Project Overview -->
+## 📌 Project Overview
+
+**TextDataProject4002** is a **sentiment analysis and box office prediction** project.  
+It leverages **pre-released critic reviews** to predict a movie’s **opening weekend revenue**.  
+The project involves **data collection, sentiment analysis, machine learning modeling, and evaluation**.  
+
+### Key Features:
+- **Web Scraping** IMDb reviews
+- **Sentiment Analysis** using NLP techniques
+- **Feature Engineering** for predictive modeling
+- **Machine Learning** (XGBoost, Random Forest, etc.)
+- **Performance Evaluation** with RMSE, MAE, and R²
+
 <!-- Section 1: Software & Platform -->
 ## Section 1: Software & Platform
 
