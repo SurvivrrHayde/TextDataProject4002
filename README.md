@@ -8,7 +8,7 @@
 This project was developed using the following software and tools:
 
 - **Programming Language:** Python 3.x  
-- **Development Environment:** Jupyter Notebook, VS Code  
+- **Development Environment:** VS Code  
 - **Libraries & Packages:**
   - **pandas** (data manipulation)
   - **matplotlib**, **seaborn** (data visualization)
