@@ -22,7 +22,7 @@ To install the necessary dependencies, run:
 
 ```bash
 pip install -r requirements.txt
-
+```
 <!-- Section 2: Project Folder Structure -->
 ## Section 2: Software & Platform
 
@@ -43,5 +43,9 @@ pip install -r requirements.txt
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
+
+<!-- Section 3: Instructions for Reproducing Results -->
+## Section 3: Instructions for Reproducing Results
+
 
 
