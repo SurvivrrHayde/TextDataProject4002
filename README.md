@@ -50,6 +50,9 @@ Follow these steps to reproduce our results:
    pip install -r requirements.txt
    ```
 2. **Collect & Prepare Data**
+   - Select Movie Data: Go into Box Office Mojo and hand select which movies you want to train the dataset on.
+   - Copy Movie Data into CSV: We used the Domestic Box Office For 2024 movies. Here we took the Rank, Release, Opening, Open, and Distibutor by copy and paste.
+   - Get IMDb ids: We then searched it movie's name into IMDb to get the movie id and place it into movie_ids.txt.
    - Scrape IMDb reviews: Run the web_scraper.py script.
    - Merge datasets: Use the datasetMerger.py script.
    - Aggregate sentiment scores: Execute aggregation_function.py.
