@@ -26,26 +26,26 @@ pip install -r requirements.txt
 <!-- Section 2: Project Folder Structure -->
 ## Section 2: Software & Platform
 
-├── DATA/
-│   ├── aggregated_movie_reviews.csv
-│   ├── cleaned_movie_data.csv
-│   ├── review_dataset.csv
-├── SCRIPTS/
-│   ├── aggregation_function.py
-│   ├── datasetMerger.py
-│   ├── prepare_dataset.py
-│   ├── model_training.py
-│   ├── web_scraper.py
-├── OUTPUT/
-│   ├── model_performance_tracking.csv
-│   ├── models/
-│   │   ├── [model files...]
-├── README.md
-├── LICENSE
-├── requirements.txt
+
 
 <!-- Section 3: Instructions for Reproducing Results -->
 ## Section 3: Instructions for Reproducing Results
+Follow these steps to reproduce our results:
+
+1. **Set Up the Environment**  
+   Ensure you have Python 3.x installed and run:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. **Collect & Prepare Data**
+   Scrape IMDb reviews: Run the web_scraper.py script.
+   Merge datasets: Use the datasetMerger.py script.
+   Aggregate sentiment scores: Execute aggregation_function.py.
+   Clean the dataset: Run prepare_dataset.py.
+4. **Train Models & Evaluate Performance**
+   Execute the model_training.py script to train models and evaluate their performance.
+5. **View Results**
+   Check the OUTPUT folder for performance tracking results and saved models.
 
 
 
