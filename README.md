@@ -38,10 +38,10 @@ Follow these steps to reproduce our results:
    pip install -r requirements.txt
    ```
 2. **Collect & Prepare Data**
-   Scrape IMDb reviews: Run the web_scraper.py script.
-   Merge datasets: Use the datasetMerger.py script.
-   Aggregate sentiment scores: Execute aggregation_function.py.
-   Clean the dataset: Run prepare_dataset.py.
+   - Scrape IMDb reviews: Run the web_scraper.py script.
+   - Merge datasets: Use the datasetMerger.py script.
+   - Aggregate sentiment scores: Execute aggregation_function.py.
+   - Clean the dataset: Run prepare_dataset.py.
 4. **Train Models & Evaluate Performance**
    Execute the model_training.py script to train models and evaluate their performance.
 5. **View Results**
