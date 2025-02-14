@@ -38,53 +38,53 @@ pip install -r requirements.txt
 <!-- Section 2: Project Folder Structure -->
 ## Section 2: Software & Platform
 
-TextDataProject4002/
-├── DATA/
-│   ├── AnalysisData/
-│   │   └── cleaned_movie_data.csv
-│   ├── InputData/
-│   │   ├── hand_picked_movie_data.csv
-│   │   ├── imdb_reviews.csv
-│   │   └── movie_ids.txt
-│   ├── IntermediateData/
-│   │   ├── aggregated_movie_reviews.csv
-│   │   ├── review_dataset.csv
-│   │   ├── sentiment_results.csv
-│   │   └── DataAppendix.pdf
-├── OUTPUT/
-│   ├── AnalysisGraphics/
-│   │   ├── MAE_Comp.png
-│   │   ├── R2_Score.png
-│   ├── DatasetGraphics/
-│   │   ├── gross_per_month.png
-│   │   ├── movies_per_month.png
-│   │   └── output.png
-│   ├── Results/
-│   │   ├── model_performance_tracking...
-│   │   └── models/
-│   │       ├── Best_XGBoost.pkl
-│   │       ├── Decision_Tree_Log_Transformed.pkl
-│   │       ├── Decision_Tree_No_Log.pkl
-│   │       ├── Linear_Regression_Log_Transformed.pkl
-│   │       ├── Linear_Regression_No_Log.pkl
-│   │       ├── Random_Forest_Log_Transformed.pkl
-│   │       ├── Random_Forest_No_Log.pkl
-│   │       ├── XGBoost_Log_Transformed.pkl
-│   │       ├── XGBoost_No_Log.pkl
-│   │       └── scaler.pkl
-├── SCRIPTS/
-│   ├── AnalysisScripts/
-│   │   └── model_training.py
-│   ├── DataCollectionScripts/
-│   │   └── web_scraper.py
-│   ├── ProcessingScripts/
-│   │   ├── aggregation_function.py
-│   │   ├── datasetMerger.py
-│   │   ├── prepare_dataset.py
-│   │   └── sentimentAnalyzer.py
-├── LICENSE
-├── README.md
-└── requirements.txt
+TextDataProject4002/  
+├── DATA/  
+│   ├── AnalysisData/  
+│   │   └── cleaned_movie_data.csv  
+│   ├── InputData/  
+│   │   ├── hand_picked_movie_data.csv  
+│   │   ├── imdb_reviews.csv  
+│   │   └── movie_ids.txt  
+│   ├── IntermediateData/  
+│   │   ├── aggregated_movie_reviews.csv  
+│   │   ├── review_dataset.csv  
+│   │   ├── sentiment_results.csv  
+│   │   └── DataAppendix.pdf  
+├── OUTPUT/  
+│   ├── AnalysisGraphics/  
+│   │   ├── MAE_Comp.png  
+│   │   ├── R2_Score.png  
+│   ├── DatasetGraphics/  
+│   │   ├── gross_per_month.png  
+│   │   ├── movies_per_month.png  
+│   │   └── output.png  
+│   ├── Results/  
+│   │   ├── model_performance_tracking...  
+│   │   └── models/  
+│   │       ├── Best_XGBoost.pkl  
+│   │       ├── Decision_Tree_Log_Transformed.pkl  
+│   │       ├── Decision_Tree_No_Log.pkl  
+│   │       ├── Linear_Regression_Log_Transformed.pkl  
+│   │       ├── Linear_Regression_No_Log.pkl  
+│   │       ├── Random_Forest_Log_Transformed.pkl  
+│   │       ├── Random_Forest_No_Log.pkl  
+│   │       ├── XGBoost_Log_Transformed.pkl  
+│   │       ├── XGBoost_No_Log.pkl  
+│   │       └── scaler.pkl  
+├── SCRIPTS/  
+│   ├── AnalysisScripts/  
+│   │   └── model_training.py  
+│   ├── DataCollectionScripts/  
+│   │   └── web_scraper.py  
+│   ├── ProcessingScripts/  
+│   │   ├── aggregation_function.py  
+│   │   ├── datasetMerger.py  
+│   │   ├── prepare_dataset.py  
+│   │   └── sentimentAnalyzer.py  
+├── LICENSE  
+├── README.md  
+└── requirements.txt  
 
 <!-- Section 3: Instructions for Reproducing Results -->
 ## Section 3: Instructions for Reproducing Results
